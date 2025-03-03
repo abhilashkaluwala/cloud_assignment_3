@@ -1,0 +1,3 @@
+NAME                                       READY   STATUS             RESTARTS      AGE
+word-counter-deployment-68c8444cbd-lwx45   0/1     CrashLoopBackOff   4 (74s ago)   2m40s
+word-counter-deployment-68c8444cbd-zw6hj   0/1     CrashLoopBackOff   4 (67s ago)   2m40s
